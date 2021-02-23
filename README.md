@@ -6,7 +6,7 @@ To je skripta, k ti iz enga videa (predavanja) nardi tak cut video, k je iz soun
 
 `python cuttaj.py <input file> <a> <output file>`
 
-kjer `a` predstavlja minimalno širino, ki jo še lahko izreže. Priporočam `a = 0.3`, kar pomojem da najboljše rezultate.
+kjer `a` predstavlja minimalno širino, ki jo še lahko izreže. Priporočam `a = 1`(s), kar pomojem da najboljše (najbolj gledljive) rezultate.
 
 ## Instalacija
 
